@@ -127,7 +127,30 @@ https://safebite-551h.onrender.com/
 ## Contributing
 
 We welcome contributions to improve SafeBite! If you'd like to contribute, please fork the repository, make changes, and submit a pull request. You can also open an issue if you have suggestions or find any bugs.
+---
 
+
+### Food Allergy Detection System  
+GitHub: [github.com/CSSwetha/FoodAllergyDetection](https://github.com/CSSwetha/FoodAllergyDetection)  
+Technologies: Python, Machine Learning, OpenCV, TensorFlow/Keras, Flask, React, OCR  
+
+#### Project Overview: 
+Developed an AI-powered Food Allergy Detection System that identifies potential allergens in food items by analyzing images and ingredient lists. The system integrates **computer vision and natural language processing (NLP)** to detect allergens from food labels, ensuring safety for individuals with dietary restrictions.
+
+#### Key Contributions:  
+- Image Processing & OCR: Implemented Optical Character Recognition (OCR) using Tesseract to extract ingredient lists from food packaging.  
+- Allergen Classification: Developed a machine learning model (TensorFlow/Keras) to classify food items and cross-check allergens based on predefined allergy databases.  
+- Web Application: Built an intuitive React-based front-end with a Flask backend, allowing users to scan food labels via mobile or upload images for allergen detection.  
+- Database Management: Designed and maintained a structured SQL/NoSQL database to store allergen information and user preferences.  
+- API Integration: Integrated external APIs for real-time allergen database updates and user notifications.  
+- Deployment & Optimization: Optimized model inference time for real-time allergen detection and deployed the system on **AWS/GCP** for scalability.  
+
+#### Impact & Achievements:
+✅ Enhanced Food Safety: Helps individuals with food allergies make informed choices by identifying allergens in real time.  
+✅ High Accuracy: Achieved X% accuracy (mention model performance) in allergen detection based on extensive dataset training.  
+✅ User-Centric Design:Created a seamless, mobile-friendly interface improving accessibility and usability.  
 
 ---
+
+
 
